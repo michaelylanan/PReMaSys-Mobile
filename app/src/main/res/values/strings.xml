@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PREMASYS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Michael Ylanan</string>
+    <string name="nav_header_subtitle">ylananjr.michael@ymail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Ranking</string>
+    <string name="menu_slideshow">Tranasction History</string>
+    <string name="menu_rewards">Rewards Status</string>
+</resources>
